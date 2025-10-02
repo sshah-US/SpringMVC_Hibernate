@@ -1,33 +1,4 @@
 <h3> Project Structure</h3>
-SpringMVC_Hibernate/
-  pom.xml
-  src/
-    main/
-      java/com/ss/breg/
-        controller/
-          BankInfoController.java
-          ContactInfoController.java
-          PersonalInfoController.java
-        dao/
-          AllInfoDAO.java
-        exception/
-          ApplicationException.java
-        interceptor/
-          LoggingInterceptor.java
-          StepFlowInterceptor.java
-        model/
-          AllInfo.java
-        service/
-          AllInfoService.java
-        validation/
-          InputValidator.java
-      resources/
-        applicationContext.xml
-      webapp/WEB-INF/
-        registration-servlet.xml
-        web.xml
-        views/
-          BankInfo.jsp
-          ContactInfo.jsp
-          PersonalInfo.jsp
-          Success.jsp
+    <img width="443" height="571" alt="image" src="https://github.com/user-attachments/assets/bd9f5423-6f2c-442e-aea9-2dabf70d55ab" />
+    <img width="348" height="593" alt="image" src="https://github.com/user-attachments/assets/a1608c1e-3f11-4e61-ae5c-c8cb990c80e7" />
+
